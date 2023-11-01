@@ -13,6 +13,6 @@ This Project aims to create a web application that asks users a series of questi
 
 ## About
 
-This project is a web application built with Python and the Flask web framework(still in process). It will ask you a set of questions to collect information, but the personality analysis cannot be done yet. The project is a work in progress, so if you have any pointers please tell me, because I am still searching for the right questions to ask.
+This project is an application built with Python (still in process). It will ask you a set of questions to collect information, but the personality analysis cannot be done yet. The project is a work in progress, so if you have any pointers please tell me, because I am still searching for the right questions to ask.
 
 thanks for now this is the work I have done...
