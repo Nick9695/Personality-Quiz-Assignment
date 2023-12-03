@@ -66,6 +66,11 @@ Our web application comes to life with the dynamic duo of Python's Flask framewo
 
 ---
 
+## Conclusion 
+Currently, only Python code is made this is a web page-based project and I plan to make a web page so I have made an outline in Python code of how my Quiz will unfold.
+
+---
+
 ## License
 
 This project is privately owned by Nikhil Raju Gadekar, a student at SRH Berlin University of Applied Sciences pursuing an MSc in Computer Science with a specialization in Big Data and Artificial Intelligence.
