@@ -6,12 +6,13 @@
 
 1. [About](#about)
 2. [Development Tools](#development-tools)
-3. [UML](#uml)
-4. [DDD](#ddd)
-5. [Usage](#usage)
+3. [Code](#code)
+4. [UML](#uml)
+5. [DDD](#ddd)
+6. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
-6. [License](#license)
+7. [License](#license)
 
 ---
 
@@ -27,15 +28,23 @@ The Personality-Quiz-Assignment is a Project made for educational purposes. This
 
 In the development of this project, we utilize a suite of tools to ensure efficiency and excellence:
 
-- **Python**: The  The programming language that forms the backbone of our project.
+- **Python**: The programming language that forms the backbone of our project.
 - **Flask**: A powerful web framework in Python, facilitating seamless web application development.
 - **HTML**: Building the user interface with the standard language for web content.
+
+---
+
+## Code
+
+The Python code file for the personality quiz is attached here [Code](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/project_outline_program_.py)
+
 
 ---
 
 ## UML
 
 **UML**: *Visualizing Software Excellence*
+
 
 
 Unified Modeling Language (UML) is a tool of choice for modeling and visualizing the intricate components of the software system. Find the below diagram for a better understanding of the project.
