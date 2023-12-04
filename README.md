@@ -7,12 +7,13 @@
 1. [About](#about)
 2. [Development Tools](#development-tools)
 3. [Code](#code)
-4. [UML](#uml)
-5. [DDD](#ddd)
-6. [Usage](#usage)
+4. [Prerequisites](#prerequisites)
+5. [UML](#uml)
+6. [DDD](#ddd)
+7. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
-7. [License](#license)
+8. [License](#license)
 
 ---
 
@@ -38,6 +39,29 @@ In the development of this project, we utilize a suite of tools to ensure effici
 
 The Python code file for the personality quiz is attached here [Code](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/project_outline_program_.py)
 
+---
+
+## Prerequisites
+
+Prerequisites for your Personality Quiz project would include various components and tools that are essential for its development, deployment, and maintenance. Here's a list of potential prerequisites:
+
+1. **Python:**
+   - Ensure that Python is installed on your system. You can download and install Python from the official website: [Python Downloads](https://www.python.org/downloads/).
+
+2. **Flask:**
+   - If you're using Flask for the web application, make sure Flask is installed. You can install Flask using the following command:
+     ```
+     pip install Flask
+     ```
+
+3. **HTML/CSS:**
+   - Basic knowledge of HTML and CSS for designing and styling web pages.
+
+4. **Web Browser:**
+   - A web browser to test and view your web application.
+     
+5. **Understanding of HTTP and Web Development Basics:**
+    - Have a basic understanding of how HTTP works and fundamental concepts in web development.
 
 ---
 
