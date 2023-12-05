@@ -13,7 +13,8 @@
 7. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
-8. [License](#license)
+8. [Conclusion](#conclusion)
+9. [License](#license)
 
 ---
 
@@ -73,15 +74,13 @@ Prerequisites for your Personality Quiz project would include various components
 
 Unified Modeling Language (UML) is a tool of choice for modeling and visualizing the intricate components of the software system. Find the below diagram for a better understanding of the project.
 
+## Class Diagram to show the flow
+
 
 ![Class Diagram(flow of code)](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/8a63e836-d8e6-475d-b2d9-b35b52f6b7bc)
 
 
-
-![chatuml-diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/72ef836d-7664-4c58-9932-6db220e35831)
-
-
-Class diagram for the personality quiz project:
+ **Class diagram** :
 
 The `User` class represents the person taking the personality quiz. It stores their name, date of birth, and calculated age.
 
@@ -96,6 +95,16 @@ The UML class diagram shows the relationships between the classes:
 * The `PersonalityQuizManager` class has a reference to the `User` object.
 * The `PersonalityQuizManager` class has a list of `Question` objects.
 * The `Question` class has no references to other classes.
+
+## Activity Diagram 
+
+![Activity Diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/b627d597-ed2f-40ed-95da-22291849091b)
+
+
+## Component Diagram
+
+![Component diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/c0ba1fa5-55b1-4ac6-b6bb-b7b0ec2aa04a)
+
 
 
 ---
