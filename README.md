@@ -115,6 +115,41 @@ The UML class diagram shows the relationships between the classes:
 
 Domain-Driven Design (DDD) is our guiding philosophy. By placing a strong emphasis on understanding and solving complex business problems, we ensure that our software is not just functional but aligns seamlessly with real-world scenarios and requirements, this area is still under - process and will be uploaded soon!!
 
+**Core domain**
+
+A core domain chart, also known as a domain model, illustrates the main entities, their attributes, and the relationships between them as per the below chart:
+
+![Core domain](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/0cb78753-79c2-4109-a8a0-9408d02db4f0)
+
+
+This core domain chart reflects the key entities and their relationships in the project. 
+
+Some points to note:
+
+**User**: 
+Represents the user participating in the quiz.
+
+**Question**: 
+Represents a scenario-based question with choices.
+
+**Answer**: 
+Represents a user's response to a specific question.
+
+**Personality Type**: 
+Represents a specific personality type.
+
+**Personality Scores**: 
+Manages the scores for each personality type.
+
+**Personality Quiz**: 
+Aggregates user, questions, answers, personality scores, and orchestrates the quiz flow.
+
+**Quiz Configuration**: 
+Interface for obtaining quiz questions.
+
+**UserProfile**:
+Interface for validating user details.
+
 ---
 
 ## Usage
@@ -134,7 +169,7 @@ Our web application comes to life with the dynamic duo of Python's Flask framewo
 ---
 
 ## Conclusion 
-Currently, only Python code is made this is a web page-based project and I plan to make a web page so I have made an outline in Python code of how my Quiz will unfold.
+This is a sneak peek of my project, which is a web-based quiz game. I'm still working on the details, so feel free to point out any errors or bugs. Right now, I only have the Python code for the quiz logic, but I plan to create a web page for the user interface. Here is a rough sketch of how the quiz will work in Python code.
 
 ---
 
