@@ -77,7 +77,7 @@ Unified Modeling Language (UML) is a tool of choice for modeling and visualizing
 ## Class Diagram to show the flow
 
 
-![Class Diagram(flow of code)](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/8a63e836-d8e6-475d-b2d9-b35b52f6b7bc)
+[Class Diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Class%20Diagram(flow%20of%20code).png)
 
 
  **Class diagram** :
@@ -98,13 +98,11 @@ The UML class diagram shows the relationships between the classes:
 
 ## Activity Diagram 
 
-![Activity Diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/b627d597-ed2f-40ed-95da-22291849091b)
-
+[Activity Diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Activity%20Diagram.png)
 
 ## Component Diagram
 
-![Component diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/c0ba1fa5-55b1-4ac6-b6bb-b7b0ec2aa04a)
-
+[Component Diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Component%20diagram.png)
 
 
 ---
@@ -119,7 +117,7 @@ Domain-Driven Design (DDD) is our guiding philosophy. By placing a strong emphas
 
 A core domain chart, also known as a domain model, illustrates the main entities, their attributes, and the relationships between them as per the below chart:
 
-![Core domain](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/0cb78753-79c2-4109-a8a0-9408d02db4f0)
+[Core domain](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Core%20domain.png)
 
 
 This core domain chart reflects the key entities and their relationships in the project. 
