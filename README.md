@@ -175,8 +175,9 @@ This is a sneak peek of my project, which is a web-based quiz game. I'm still wo
 
 This project is privately owned by Nikhil Raju Gadekar, a student at SRH Berlin University of Applied Sciences pursuing an MSc in Computer Science with a specialization in Big Data and Artificial Intelligence.
 
-**Contact Information:**
-- **Name**: Nikhil Raju Gadekar
-- **Email**: gernikhilgadekar@gmail.com
 
+**Contact Information:**
+- ![Screenshot 2023-12-11 224350](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/3c82c2b7-876d-447d-b149-dcd2fddedf23)
+Nikhil Raju Gadekar
+-  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gernikhilgadekar@gmail.com)
 ---
