@@ -30,7 +30,7 @@ The Personality-Quiz-Assignment is a Project made for educational purposes. This
 
 In the development of this project, we utilize a suite of tools to ensure efficiency and excellence:
 
-- **Python**: The programming language that forms the backbone of our project.
+- **Python**:The programming language that forms the backbone of our project.
 - **Flask**: A powerful web framework in Python, facilitating seamless web application development.
 - **HTML**: Building the user interface with the standard language for web content.
 
@@ -100,9 +100,41 @@ The UML class diagram shows the relationships between the classes:
 
 [Activity Diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Activity%20Diagram.png)
 
+
+**Explanation of each step in the flowchart:**
+
+* **Get User's Name:** The flowchart starts by asking the user for their name. This information can be used to greet the user and to personalize the experience.
+* **Valid Name?** The flowchart then checks if the user's name is valid. This means checking that the name is not empty and that it does not contain any special characters.
+* **Get User's Date of Birth:** If the user's name is valid, the flowchart asks the user for their date of birth. This information can be used to calculate the user's age and to greet them based on their age.
+* **Valid DOB Format?** The flowchart then checks if the user's date of birth is in a valid format. This means checking that the date is in a format that can be understood by the system.
+* **Greet User Based on Age:** If the user's date of birth is in a valid format, the flowchart greets the user based on their age. For example, the flowchart might greet a user who is under 18 years old with "Hello, [user name]! How can I help you today?" and greet a user who is over 18 years old with "Welcome to our website, [user name]!"
+* **Initialize Variables:** The flowchart then initializes some variables. These variables will be used to store the user's personality scores and other information about the user.
+* **Ask Scenario-Based Questions:** The flowchart then asks the user a series of scenario-based questions. These questions are designed to assess the user's personality. For example, the flowchart might ask the user "What would you do if you saw someone lost and alone?" or                                        "What is your favorite way to spend a rainy day?"
+* **Update Personality Scores:** The flowchart uses the user's answers to the scenario-based questions to update their personality scores. These scores will be used to determine the user's personality type.
+* **Questions Remaining?** The flowchart then checks if any questions are remaining. If there are, the flowchart asks the user to answer the next question. If no questions are remaining, the flowchart displays the user's personality results.
+* **Display Result:** The flowchart displays the user's personality results. These results might include the user's personality type, their personality strengths and weaknesses, and some tips on how to improve their personality.
+* **Ask to Understand Personality?** The flowchart then asks the user if they want to understand their personality better. If they do, the flowchart displays an explanation of their personality results. The explanation might include information about what the user's personality type means, how it can impact their behavior, and how to develop their personality.
+
+
 ## Component Diagram
 
 [Component Diagram](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Component%20diagram.png)
+
+**Explanation of each step in the Component Chart:**
+
+The User class represents a user of the personality quiz. The Personality Quiz Manager class is responsible for managing the personality quiz, including asking the user questions and calculating their personality type. The Question class represents a question in the personality quiz. The Personality Type class represents a personality type.
+
+The diagram shows that the User class has a one-to-many relationship with the Question class. This means that a User can answer many Questions, but a Question can only be answered by one User.
+
+The diagram also shows that the Personality Quiz Manager class has a one-to-many relationship with the Question class. This means that a Personality Quiz Manager can manage many Questions, but a Question can only be managed by one Personality Quiz Manager.
+
+Finally, the diagram shows that the Personality Quiz Manager class has a one-to-many relationship with the Personality Type class. This means that a Personality Quiz Manager can calculate many Personality Types, but a Personality Type can only be calculated by one Personality Quiz Manager.
+
+
+* **User:** The User class represents a user of the personality quiz. It contains the user's name, date of birth, and personality type.
+* **Personality Quiz Manager:** The PersonalityQuizManager class is responsible for managing the personality quiz, including asking the user questions and calculating their personality type. It contains a list of Questions and a list of personality types.
+* **The Question class:** represents a question in the personality quiz. It contains the question text and a list of possible answers.
+* **Personality Type:** The PersonalityType class represents a personality type. It contains the name of the personality type, a description of the personality type, and a list of the personality type's strengths and weaknesses.
 
 
 ---
