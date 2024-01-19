@@ -48,6 +48,13 @@ The Python code file for the personality quiz is attached here [Code](https://gi
 ## Requirement Engineering
 
 
+**Professional variant**
+
+[JIRA](https://gernikhilgadekar.atlassian.net/jira/software/projects/PQ/boards/2)
+
+**Self-Use variant**
+
+[Trello](https://trello.com/b/lCjqUhXa/personality-quiz)
 
 ---
 
