@@ -185,6 +185,8 @@ The Badge screenshot if in the future the links for batch gets expired.
 Clean Code Development is writing code that is easy to read, understand, and maintain. It involves using meaningful names, consistent formatting, and avoiding unnecessary complexity. Clean code follows principles like Single Responsibility and aims for simplicity, making it more efficient for collaboration and long-term software development.
 Find below the Clean code for the Personality quiz: 
 
+[Clean Code](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Clean%20Code%20Development.pdf)
+
 ---
 
 ## Usage
