@@ -12,11 +12,12 @@
 6. [UML](#uml)
 7. [DDD](#ddd)
 8. [Metrics](#metrics)
-9. [Usage](#usage)
+9. [Clean Code](#clean-code)
+10. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
-10. [Conclusion](#conclusion)
-11. [License](#license)
+11. [Conclusion](#conclusion)
+12. [License](#license)
 
 ---
 
@@ -169,6 +170,20 @@ Interface for validating user details.
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
 
+**Screenshot**
+
+The Badge screenshot if in the future the links for batch gets expired.
+
+
+![Screenshot 2024-01-19 151758](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/ad04552a-e4a4-4e91-9fde-6dbec31e0030)
+
+
+---
+
+## Clean Code
+
+Clean Code Development is writing code that is easy to read, understand, and maintain. It involves using meaningful names, consistent formatting, and avoiding unnecessary complexity. Clean code follows principles like Single Responsibility and aims for simplicity, making it more efficient for collaboration and long-term software development.
+Find below the Clean code for the Personality quiz: 
 
 ---
 
