@@ -7,14 +7,16 @@
 1. [About](#about)
 2. [Development Tools](#development-tools)
 3. [Code](#code)
-4. [Prerequisites](#prerequisites)
-5. [UML](#uml)
-6. [DDD](#ddd)
-7. [Usage](#usage)
+4. [Requirement Engineering](#requirement-engineering)
+5. [Prerequisites](#prerequisites)
+6. [UML](#uml)
+7. [DDD](#ddd)
+8. [Metrics](#metrics)
+9. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
-8. [Conclusion](#conclusion)
-9. [License](#license)
+10. [Conclusion](#conclusion)
+11. [License](#license)
 
 ---
 
@@ -39,6 +41,12 @@ In the development of this project, we utilize a suite of tools to ensure effici
 ## Code
 
 The Python code file for the personality quiz is attached here [Code](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/project_outline_program_.py)
+
+---
+
+## Requirement Engineering
+
+
 
 ---
 
@@ -150,6 +158,20 @@ Interface for validating user details.
 
 ---
 
+## Metrics
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Nick9695_Personality-Quiz-Assignment&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Nick9695_Personality-Quiz-Assignment)
+
+
+---
+
 ## Usage
 
 ### Personality Quiz
@@ -168,6 +190,7 @@ Our web application comes to life with the dynamic duo of Python's Flask framewo
 
 ## Conclusion 
 This is a sneak peek of my project, which is a web-based quiz game. I'm still working on the details, so feel free to point out any errors or bugs. Right now, I only have the Python code for the quiz logic, but I plan to create a web page for the user interface. Here is a rough sketch of how the quiz will work in Python code.
+
 
 ---
 
