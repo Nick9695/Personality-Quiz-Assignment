@@ -133,10 +133,10 @@ Domain-Driven Design (DDD) is our guiding philosophy. By placing a strong emphas
 
 A core domain chart, also known as a domain model, illustrates the main entities, their attributes, and the relationships between them as per the below chart:
 
-[Core domain](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Core_Domain.png)
+[Core domain](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Core_Domains.png)
 
 
-This core domain chart reflects the key entities and their relationships in the project. 
+This core domain chart reflects the key entities in the project. 
 
 Some points to note:
 
@@ -163,6 +163,11 @@ Interface for obtaining quiz questions.
 
 **UserProfile**:
 Interface for validating user details.
+
+
+**Relation of Domains**
+
+[Domain Relations]
 
 ---
 
