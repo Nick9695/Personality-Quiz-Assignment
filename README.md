@@ -13,7 +13,8 @@
 7. [DDD](#ddd)
 8. [Metrics](#metrics)
 9. [Clean Code](#clean-code)
-10. [Usage](#usage)
+10. [Unit Test](#unit-test)
+11. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
 11. [Conclusion](#conclusion)
@@ -164,10 +165,13 @@ Interface for obtaining quiz questions.
 **UserProfile**:
 Interface for validating user details.
 
+--
 
 **Relation of Domains**
 
-[Domain Relations]
+In my project, various domains collaborate to create a seamless experience. User Management oversees user interactions, while Quiz Configuration manages quiz settings. Results Presentation and User Feedback work together to deliver and collect user insights. The Scoring Algorithm analyzes answers, connecting them with Personality Types to provide accurate results.
+
+[Domain Relations](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/relation.png)
 
 ---
 
@@ -198,6 +202,19 @@ Clean Code Development is writing code that is easy to read, understand, and mai
 Find below the Clean code for the Personality quiz: 
 
 [Clean Code](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Clean%20Code%20Development.pdf)
+
+---
+
+## Unit Test
+
+The unit tests simulate user input to check if the personality quiz functions correctly. Each test represents a user scenario, such as an Adventurer, Conscientious, or Explorer personality type. The tests ensure that the program responds appropriately to input and provides accurate personality type descriptions, validating the quiz's functionality.
+
+**Test Code**
+
+
+**Test Score**
+
+
 
 ---
 
