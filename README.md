@@ -20,8 +20,9 @@
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
 14. [IDE and Shortcuts](#ide-and-shortcuts)
-15. [Conclusion](#conclusion)
-16. [License](#license)
+15. [Analysis](analysis)
+16. [Conclusion](#conclusion)
+17. [License](#license)
 
 ---
 
@@ -317,6 +318,9 @@ Ctrl + `: Open the integrated terminal.
 F5: Run the script.
 
 ---
+
+## Analysis 
+
 
 ## Conclusion 
 This is a sneak peek of my project, which is a web-based quiz game. I'm still working on the details, so feel free to point out any errors or bugs. Right now, I only have the Python code for the quiz logic, but I plan to create a web page for the user interface. Here is a rough sketch of how the quiz will work in Python code.
