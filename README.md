@@ -14,12 +14,13 @@
 8. [Metrics](#metrics)
 9. [Clean Code](#clean-code)
 10. [Unit Test](#unit-test)
-11. [Usage](#usage)
+11. [Build Management](build-management)
+12. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
-12. [IDE and Shortcuts](#ide-and-shortcuts)
-13. [Conclusion](#conclusion)
-14. [License](#license)
+13. [IDE and Shortcuts](#ide-and-shortcuts)
+14. [Conclusion](#conclusion)
+15. [License](#license)
 
 ---
 
@@ -49,14 +50,22 @@ The Python code file for the personality quiz is attached here [Personality Quiz
 
 ## Requirement Engineering
 
+Requirement engineering for my project involves gathering, analyzing, documenting, and managing the needs and constraints of the system's users and stakeholders. It's a crucial phase where clear and complete specifications are defined to guide the software development process. This includes understanding user expectations, functional and non-functional requirements, and potential risks. Effective requirement engineering ensures that the final software product meets user expectations and operates smoothly within the specified constraints, leading to a successful and satisfying outcome for both developers and users.
+
 
 **Professional variant**
 
 [JIRA](https://gernikhilgadekar.atlassian.net/jira/software/projects/PQ/boards/2)
 
+![Jira](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/4a3fcb21-0b13-478e-aa9d-ed4fdbecc593)
+
+
 **Self-Use variant**
 
 [Trello](https://trello.com/b/lCjqUhXa/personality-quiz)
+
+![Trello](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/cce056d1-f72a-4d53-b287-6356908a55c4)
+
 
 ---
 
@@ -219,6 +228,14 @@ The unit tests simulate user input to check if the personality quiz functions co
 
 ![Result](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/2e1629e7-768e-4794-ba73-2e861600e84c)
 
+
+---
+
+## Build Management
+
+I have used Py Builder for the build management to run the project successfully. And merge my files with Pybuilder find below screenshot 
+
+![Build_Successful](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/9cc5c854-4846-4638-ba9b-8fc714574bbe)
 
 ---
 
