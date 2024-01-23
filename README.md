@@ -13,9 +13,10 @@
 7. [DDD](#ddd)
 8. [Metrics](#metrics)
 9. [Clean Code](#clean-code)
-10. [Unit Test](#unit-test)
-11. [Build Management](build-management)
-12. [Usage](#usage)
+10. [Functional Programming](functional-programming)
+11. [Unit Test](#unit-test)
+12. [Build Management](build-management)
+13. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
 13. [IDE and Shortcuts](#ide-and-shortcuts)
@@ -212,6 +213,13 @@ Clean Code Development is writing code that is easy to read, understand, and mai
 Find below the Clean code for the Personality quiz: 
 
 [Clean Code](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Clean%20Code%20Development.pdf)
+
+
+## Functional Programming
+
+Functional programming is a coding paradigm that treats computation as the evaluation of mathematical functions. It emphasizes immutability, where data doesn't change after creation. Functions are first-class citizens, meaning they can be assigned to variables, passed as arguments, and returned as results. This approach simplifies reasoning about code and encourages concise, modular, and predictable programs.
+
+[functional Programming](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/7abc6626dba7837f71560bb1508be0f8da1abb93/functional_programming_.py#L13)
 
 ---
 
