@@ -42,7 +42,7 @@ In the development of this project, we utilize a suite of tools to ensure effici
 
 ## Code
 
-The Python code file for the personality quiz is attached here [Code](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/project_outline_program_.py)
+The Python code file for the personality quiz is attached here [Personality Quiz](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/project_outline_program_.py)
 
 ---
 
@@ -211,9 +211,12 @@ The unit tests simulate user input to check if the personality quiz functions co
 
 **Test Code**
 
+[Unit test](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/Unit%20test/Test_code.py)
 
-**Test Score**
 
+**Test Score** 
+
+![Result](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/2e1629e7-768e-4794-ba73-2e861600e84c)
 
 
 ---
