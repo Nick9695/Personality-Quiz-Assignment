@@ -19,9 +19,9 @@
 13. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
-13. [IDE and Shortcuts](#ide-and-shortcuts)
-14. [Conclusion](#conclusion)
-15. [License](#license)
+14. [IDE and Shortcuts](#ide-and-shortcuts)
+15. [Conclusion](#conclusion)
+16. [License](#license)
 
 ---
 
@@ -221,7 +221,19 @@ Functional programming is a coding paradigm that treats computation as the evalu
 
 [functional Programming](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/7abc6626dba7837f71560bb1508be0f8da1abb93/functional_programming_.py#L13)
 
-[only final data structure](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/7abc6626dba7837f71560bb1508be0f8da1abb93/functional_programming_.py#L13)
+[final data structure](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/7abc6626dba7837f71560bb1508be0f8da1abb93/functional_programming_.py#L13)
+
+[Side-effect free functions](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/b5ba9c4c59a6d50ad33f37d4290a258eaa9c0eba/functional_programming_.py#L24)
+
+[Higher order fuction](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/b5ba9c4c59a6d50ad33f37d4290a258eaa9c0eba/functional_programming_.py#L28)
+
+[Functions parameters and return values](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/b5ba9c4c59a6d50ad33f37d4290a258eaa9c0eba/functional_programming_.py#L32)
+
+[Use of closures/anonymous functions](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/b5ba9c4c59a6d50ad33f37d4290a258eaa9c0eba/functional_programming_.py#L40)
+
+[Immutable data structures](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/b5ba9c4c59a6d50ad33f37d4290a258eaa9c0eba/functional_programming_.py#L46)
+
+[Recursion](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/b5ba9c4c59a6d50ad33f37d4290a258eaa9c0eba/functional_programming_.py#L49C6-L49C15)
 
 ---
 
