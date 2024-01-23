@@ -322,7 +322,12 @@ F5: Run the script.
 ## Analysis 
 
 Analysis for my project involves studying requirements, understanding user needs, and defining system functionalities. It aims to identify problems, determine project scope, and create a foundation for development. This process ensures a clear understanding of goals, facilitating effective design and implementation decisions throughout the project lifecycle.
-[Analysis Checklist](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/checklist.pdf)
+
+
+1. [Analysis Checklist](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/checklist.pdf)
+
+---
+
 
 ## Conclusion 
 This is a sneak peek of my project, which is a web-based quiz game. I'm still working on the details, so feel free to point out any errors or bugs. Right now, I only have the Python code for the quiz logic, but I plan to create a web page for the user interface. Here is a rough sketch of how the quiz will work in Python code.
