@@ -235,6 +235,8 @@ The unit tests simulate user input to check if the personality quiz functions co
 
 I have used Py Builder for the build management to run the project successfully. And merge my files with Pybuilder find below screenshot 
 
+[Command Prompt](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/commandprompt.txt)
+
 ![Build_Successful](https://github.com/Nick9695/Personality-Quiz-Assignment/assets/148968130/9cc5c854-4846-4638-ba9b-8fc714574bbe)
 
 ---
