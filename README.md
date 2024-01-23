@@ -17,8 +17,9 @@
 11. [Usage](#usage)
    - [Personality Quiz](#personality-quiz)
    - [Web App Implementation](#web-app-implementation)
-11. [Conclusion](#conclusion)
-12. [License](#license)
+12. [IDE and Shortcuts](#ide-and-shortcuts)
+13. [Conclusion](#conclusion)
+14. [License](#license)
 
 ---
 
@@ -234,6 +235,45 @@ The Personality Quiz is the heart of our application. Users navigate a carefully
 **Crafting Experiences with Flask and HTML**
 
 Our web application comes to life with the dynamic duo of Python's Flask framework and HTML. Flask provides a robust foundation for web development, while HTML shapes the user interface, creating an immersive and intuitive experience.
+
+---
+
+## IDE and Shortcuts
+
+**IDE :** 
+  Choosing an IDE depends on personal preference and the programming language So for me as Python user it was either of these Pycharm, VSCode, Google Colab.
+
+**Shortcuts :**
+ The best shortcuts depend on what you need and want to do, but here are some of the ones I use all the time and are easy to remember. 
+
+ **PyCharm:**
+
+Key Shortcuts:
+
+Ctrl + Space: Auto-complete code.
+
+Ctrl + Alt + L (Windows/Linux) or Cmd + Alt + L (Mac): Reformat code.
+
+Ctrl + Shift + A (Windows/Linux) or Cmd + Shift + A (Mac): Find actions and commands.
+
+Ctrl + E (Windows/Linux) or Cmd + E (Mac): Recent files.
+
+Ctrl + Shift + F10 (Windows/Linux) or Shift + Cmd + F10 (Mac): Run the script.
+
+
+**VSCode:**
+
+Key Shortcuts:
+
+Ctrl + Space: Auto-complete code.
+
+Alt + Shift + F: Reformat code.
+
+Ctrl + P: Quick file navigation.
+
+Ctrl + `: Open the integrated terminal.
+
+F5: Run the script.
 
 ---
 
