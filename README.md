@@ -324,7 +324,9 @@ F5: Run the script.
 Analysis for my project involves studying requirements, understanding user needs, and defining system functionalities. It aims to identify problems, determine project scope, and create a foundation for development. This process ensures a clear understanding of goals, facilitating effective design and implementation decisions throughout the project lifecycle.
 
 
-1. [Analysis Checklist](https://github.com/Nick9695/Personality-Quiz-Assignment/blob/main/checklist.pdf)
+1. [Analysis Checklist](https://sixth-hose-3a1.notion.site/Checklist-for-the-Personality-Quiz-Project-38518afcda924306af65cb91e8236115?pvs=4)
+2. [Analysis Documents](https://sixth-hose-3a1.notion.site/Analysis-of-the-Personality-Quiz-Project-1e7d14ea63a4448fbdfb7495e3e2cfe1?pvs=4)
+3. [Analysis for semester Project](https://sixth-hose-3a1.notion.site/Semester-Project-Analysis-119884e6dc1341e6b46d2b1bcc62d2ae?pvs=4)
 
 ---
 
